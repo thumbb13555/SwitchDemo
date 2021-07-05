@@ -1,8 +1,7 @@
-package com.jetec.switchdemo;
+package com.noahliu.switchdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.CompoundButton;
 import android.widget.Switch;

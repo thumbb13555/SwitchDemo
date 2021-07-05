@@ -1,4 +1,4 @@
-package com.jetec.switchdemo;
+package com.noahliu.switchdemo;
 
 import android.content.Context;
 
